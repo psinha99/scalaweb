@@ -1,0 +1,6 @@
+/build/
+/bin/
+/.gradle/
+/.settings/
+/.cache-main
+/.cache-tests
